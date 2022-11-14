@@ -828,6 +828,9 @@ li{
 }
 
 @media (max-width:375px){
+    .container{
+        overflow-x: hidden;
+    }
     .section_one{
         margin-top: 70px;
     }
